@@ -1,0 +1,23 @@
+[
+    {
+      "name": "title",
+      "type": "STRING"
+    },
+    {
+      "name": "content",
+      "type": "STRING"
+    },
+    {
+      "name": "author",
+      "type": "STRING"
+    },
+    {
+      "name": "url",
+      "type": "STRING"
+    },
+    {
+      "name": "publish_date",
+      "type": "TIMESTAMP"
+    }
+  ]
+  
